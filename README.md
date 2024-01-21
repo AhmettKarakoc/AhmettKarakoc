@@ -1,4 +1,4 @@
-![MasterHead](https://i.hizliresim.com/68rxxko.jpg)
+![MasterHead](https://i.hizliresim.com/o123tqv.jpg)
 <h1 align="center">Merhaba 👋, ben Ahmet</h1>
 <h3 align="center">Türkiye'den tutkulu bir Veri Bilimcisi</h3>
 
