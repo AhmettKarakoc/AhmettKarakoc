@@ -1,5 +1,6 @@
 ![MasterHead](https://i.hizliresim.com/o123tqv.jpg)
-<h1 align="center">Merhaba 👋, ben Ahmet</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=38&pause=1000&color=21BBEE&center=true&vCenter=true&random=false&width=1000&height=150&duration=5000&lines=Hello+%F0%9F%91%8B%2C+I'm+Ahmet!)](https://git.io/typing-svg)
 <h3 align="center">Türkiye'den tutkulu bir Veri Bilimcisi</h3>
 
 - 🌱 Şu anda **Makine Öğrenimi** öğreniyorum
