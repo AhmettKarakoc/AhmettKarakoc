@@ -23,7 +23,7 @@
   <a href="mailto:ahmetkarakoc03@outlook.com.tr">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.linkedin.com/in/ahmet-karakoç-b39a10263" target="_blank">
+  <a href="https://linkedin.com/in/ahmet-karako%C3%A7-b39a10263/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <!-- sqlite, safari, google-chrome are other good icon options -->
