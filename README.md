@@ -1,60 +1,66 @@
-![MasterHead](https://i.hizliresim.com/o123tqv.jpg)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AhmettKarakoc.AhmettKarakoc" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=38&pause=1000&color=21BBEE&center=true&vCenter=true&random=false&width=1000&height=150&duration=5000&lines=Hello+%F0%9F%91%8B%2C+I'm+Ahmet!)](https://git.io/typing-svg)
-<h3 align="center">Türkiye'den tutkulu bir Veri Bilimcisi</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Lobster&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmet+Karakoç!;" />
+</h1>
 
-- 🌱 Şu anda **Makine Öğrenimi** öğreniyorum
+<h3 align="center">A passionate Data Scientist from Turkey </h3>
 
-- 📫 Bana nasıl ulaşabilirsiniz **ahmetkarakoc03@outlook.com.tr**
+<br/>
 
-<h3 align="left">Benimle iletişime geçin:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmet-karakoç-b39a10263/" target = "boş"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt = "ahmet karakoç" height = "30" width = "40" /></a>
-</p>
+<div align="center">
+ 
+ 🔭 I’m currently working on **MLOps Project**
+ 
+ 🌱 I’m currently learning **Docker, GCP**
 
-<h3 align = "left"> Diller ve Araçlar :</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-</p>
+💬 Ask me about **Machine Learning Models**
 
 
-<p><img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=ahmettkarakoc&show_icons=true&locale=en&layout=compact" alt = "ahmettkarakoc" /> </p>
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:ahmetkarakoc03@outlook.com.tr">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="www.linkedin.com/in/ahmet-karakoç-b39a10263" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-<p> <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=ahmettkarakoc&show_icons=true&locale=en" alt = "ahmettkarakoc" /> </p>
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=anaconda,vscode,python,sklearn,elasticsearch,tensorflow,pytorch,linux,bash,docker,gcp,mongodb,mysql,arduino" /><br>
+</div>
 
-<p><img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=ahmettkarakoc&" alt = "ahmettkarakoc" /></p>
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AhmettKarakoc/AhmettKarakoc/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-AhmettKarakoc.vercel.app/?user=AhmettKarakoc&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-AhmettKarakoc.vercel.app/api?username=AhmettKarakoc&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-AhmettKarakoc.vercel.app/api/top-langs/?username=AhmettKarakoc&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
