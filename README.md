@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **MLOps Project**
+ 🔭 I’m currently working on **Deep Learning and Reinforcement Learning**
  
- 🌱 I’m currently learning **Docker, GCP**
+ 🌱 I’m currently learning **AWS and GCP**
 
 💬 Ask me about **Machine Learning Models**
 
